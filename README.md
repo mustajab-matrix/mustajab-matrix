@@ -1,8 +1,8 @@
-# Hi, I'm Mustajab 👋
+# Hi there, I'm Mustajab 👋
 
 🎓 MSc in Engineering – University of Alberta  
 🔬 Researcher in Computational Thermodynamics
-💡 Passionate about energy, fluid modeling, and scientific coding  
+💡 Passionate about energy, fluid modeling, scientific coding and entrepreneurship
 🌎 Based in Canada | Open to Research & Engineering Opportunities
 
 ## 📫 Let's connect
