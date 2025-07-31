@@ -9,5 +9,5 @@
 🌎 Based in Canada | Open to Research & Engineering Opportunities
 
 # 📫 Let's connect
-- LinkedIn: [linkedin.com/in/mustajabsafarov](https://linkedin.com/in/mustajabsafarov)
+- LinkedIn: [linkedin.com/in/mustajabsafarov](https://www.linkedin.com/in/mustajab-safarov/)
 - Email: safarov@ualberta.ca
