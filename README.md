@@ -4,7 +4,7 @@
 
 🔬 Researcher in Computational Thermodynamics
 
-💡 Passionate about energy, fluid modeling, scientific coding and entrepreneurship
+💡 Passionate about energy, fluid modeling, scientific computing and entrepreneurship
 
 🌎 Based in Canada | Open to Research & Engineering Opportunities
 
