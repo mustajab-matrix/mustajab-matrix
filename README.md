@@ -1,4 +1,4 @@
-# Hi there, I'm Mustajab 👋
+# Hi there, I'm Mustajab (MJ) 👋
 
 🎓 MSc in Engineering – University of Alberta  
 
